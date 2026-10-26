@@ -4444,6 +4444,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+    - [remirror](https://remirror.net) `https://remirror.net/mcp`
+  🔐 - Psyche audits for AI agents: declared vs self-reported vs revealed objectives from dilemma trials, with teleology gap reports. $79 per audit via x402 or prepaid credits; failed audits are never charged.
 - [satledger](https://satledger.org) `https://api.satledger.org/mcp`
   [![satledger MCP connector](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt/badges/score.svg)](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt)
   🔓 - RFC 3161 timestamp over a digest you supply; USDC per call over x402, no account, verifies offline.
